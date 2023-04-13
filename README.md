@@ -1,2 +1,2 @@
 # CV Template
-simple resume template project
+simple and old fashion resume template project
